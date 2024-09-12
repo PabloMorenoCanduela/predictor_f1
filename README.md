@@ -37,6 +37,15 @@ Este proyecto es un excelente ejemplo de cómo los datos históricos y las simul
 3. Ejecutar el archivo Jupyter Notebook (ElNano33_final.ipynb) para ver el análisis completo y los resultados de la predicción.
 
 
+## Colaboradores
+
+Este proyecto ha sido desarrollado en colaboración con:
+
+- **Pablo Moreno Canduela** - [GitHub](https://github.com/PabloMorenoCanduela)
+- **Fran Moreno** -
+- 
+Ambos hemos trabajado juntos en la recolección de datos, el análisis y la simulación del modelo predictivo.
+
 
 
 
